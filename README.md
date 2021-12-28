@@ -4,13 +4,19 @@
 . Company - UK-based and registered non-store online retail . Products for selling - Mainly all-occasion gifts . Customers - Most are wholesalers (local or international) . Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year)
 
 # Problem Statements:
-## 1.Perform Basic EDA
+## .Perform Basic EDA
 a. Boxplot – All Numeric Variables
+
 b. Histogram – All Numeric Variables
-c. Distribution Plot – All Numeric Variables 
+
+c. Distribution Plot – All Numeric Variables
+
 d. Aggregation for all numerical Columns 
+
 e. Unique Values across all columns
+
 f. Duplicate values across all columns 
+
 g. Correlation – Heatmap - All Numeric Variables
 h. Regression Plot - All Numeric Variables 
 i. Bar Plot – Every Categorical Variable vs every Numerical Variable 
